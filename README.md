@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate developer, Master's degree in computer engineering / Data science, eager to learn every day.
 ---------------------------------------------------------------------------------------------------------
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 Becoming a distinguished Data Scientist by continuing the development of my knowledge and skills gained through my studies and previous work experiences. Therefore, I had my graduate studies in Computer Engineering concentrating on Data Science following Computer Science as my undergraduate studies due to my ever-living eagerness to solve complex problems, passion for technological abilities, and a strong aptitude for learning, and facing new challenges.
 
 * 🌍  I'm based in Turkey
