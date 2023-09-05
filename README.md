@@ -1,4 +1,15 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamad Sabha
+=====================================================================================================================================
 
+A passionate developer, Master's degree in computer engineering / Data science, eager to learn every day.
+---------------------------------------------------------------------------------------------------------
+
+Becoming a distinguished Data Scientist by continuing the development of my knowledge and skills gained through my studies and previous work experiences. Therefore, I had my graduate studies in Computer Engineering concentrating on Data Science following Computer Science as my undergraduate studies due to my ever-living eagerness to solve complex problems, passion for technological abilities, and a strong aptitude for learning, and facing new challenges.
+
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [https://www.linkedin.com/in/mohamad-sabha/](mailto:https://www.linkedin.com/in/mohamad-sabha/)
+* 🧠  I'm learning Laravel
+* 🤝  I'm open to collaborating on Anything Related to machine learning , Data Science, Data Engineering.
 
 <h3 align="left">Languages and Tools:</h3>
 
