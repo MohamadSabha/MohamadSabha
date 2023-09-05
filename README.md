@@ -6,44 +6,11 @@
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/MohamadSabha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mohamad-sabha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MohamadSabha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSabha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--------------------------------------------------------------------------------------------------------------------------
-
-<h1 align="center">Hi 👋, I'm Mohamad Sabha</h1>
-<h3 align="center">A passionate developer, Master's degree in computer engineering / Data science, eager to learn every day</h3>
-
-- 🌱 I’m currently learning **NLP , Larevel,Neural Networks**
-
-- 💬 Ask me about **Apache Spark,Apache kafka, Stream Processing,outlier detection**
-
-- 📫 How to reach me **mhd.sabha@hotmail.com**
-
-- ⚡ Fun fact **I'm a pink floyd fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
