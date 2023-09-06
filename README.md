@@ -8,7 +8,7 @@ A passionate developer, Master's degree in computer engineering / Data science, 
 Becoming a distinguished Data Scientist by continuing the development of my knowledge and skills gained through my studies and previous work experiences. Therefore, I had my graduate studies in Computer Engineering concentrating on Data Science following Computer Science as my undergraduate studies due to my ever-living eagerness to solve complex problems, passion for technological abilities, and a strong aptitude for learning, and facing new challenges.
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [https://www.linkedin.com/in/mohamad-sabha/](mailto:https://www.linkedin.com/in/mohamad-sabha/)
+* ✉️  You can contact me at [https://www.linkedin.com/in/mohamad-sabha/](https://www.linkedin.com/in/mohamad-sabha/)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on Anything Related to machine learning , Data Science, Data Engineering.
 
